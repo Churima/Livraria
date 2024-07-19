@@ -16,7 +16,7 @@ function Logo(){
             src={logo} 
             alt='logo'
         />
-        <p><strong>B</strong>ook<strong>R</strong>eview</p>
+        <p><strong>B</strong>ooks<strong>R</strong>eview</p>
        </DivContainer>
     )
 }
